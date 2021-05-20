@@ -88,7 +88,8 @@ I'm an <b>undergraduate</b> at <b>University of Engineering & Management</b>.<br
   </a>
 </div>
 #### Overall profile stats
-![](https://github-readme-stats.vercel.app/api?username=soukarja&count_private=true&theme=merko&show_icons=true&hide=prs)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soukarja&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=soukarja&count_private=true&theme=merko&show_icons=true&hide=prs) -->
 
 <img src="https://gpvc.arturio.dev/soukarja" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/soukarja?style=social"/> 
 ##
