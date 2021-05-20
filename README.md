@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :raising_hand: About me:
-I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM University AP</b></a>.<br>
-◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b>.<br>
-◽ I like minimal art style.<br>
-◽ I’m currently learning everything about **Frontend** and **Backend** technologies.<br>
+I'm an <b>undergraduate</b> at <b>University of Engineering & Management</b>.<br>
+◽ Intrested in <b>Full-Stack Web Developement</b>, <b> Software Development, Android developement</b> and <b>Graphics Design</b>.<br>
 
 <br>
-<a href="https://github.com/soilshubham">
-   <img src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sahil's github stats" width=450px/>
-</a><br><br>
+<!-- <a href="https://github.com/soilshubham">
+   <img src="https://github-readme-stats.vercel.app/api?username=soukarja&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Soukarja's github stats" width=450px/> 
+</a><br><br> -->
 
 <div id="tech"></div>
 
@@ -83,7 +81,16 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
   </tr>
 </table>
 <br>
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=soukarja&column=6&hide=PullRequest"/>
+  </a>
+</div>
+#### Overall profile stats
+![](https://github-readme-stats.vercel.app/api?username=soukarja&count_private=true&theme=merko&show_icons=true&hide=prs)
 
+<img src="https://gpvc.arturio.dev/soukarja" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/soukarja?style=social"/> 
 ##
 <br>
 <p align="center"=><i>In case you wanna reach out to me</i></p>
