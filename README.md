@@ -96,9 +96,9 @@ I'm an <b>undergraduate</b> at <b>University of Engineering & Management</b>.<br
 <br>
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">
-  <a href="https://www.linkedin.com/in/soukarja/"><img alt="LinkedIn" title="LinkedIn" src="https://github.com/soilshubham/soilshubham/blob/main/icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/soukarja"><img alt="Twitter" title="Twitter" src="https://github.com/soilshubham/soilshubham/blob/main/icons/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/soukarjaaa/"><img alt="Instagram" title="Instagram" src="https://github.com/soilshubham/soilshubham/blob/main/icons/instagram.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-   <a href="mailto:soukarjadutta@gmail.com"><img alt="mail" title="mail" src="https://github.com/soilshubham/soilshubham/blob/main/icons/gmail.svg" width=20px/></a>
+  <a href="https://www.linkedin.com/in/soukarja/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://github.com/soilshubham/soilshubham/blob/main/icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/soukarja" target="_blank"><img alt="Twitter" title="Twitter" src="https://github.com/soilshubham/soilshubham/blob/main/icons/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/soukarjaaa/" target="_blank"><img alt="Instagram" title="Instagram" src="https://github.com/soilshubham/soilshubham/blob/main/icons/instagram.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
+   <a href="mailto:soukarjadutta@gmail.com" target="_blank"><img alt="mail" title="mail" src="https://github.com/soilshubham/soilshubham/blob/main/icons/gmail.svg" width=20px/></a>
 </p>
 <br>
