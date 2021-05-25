@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :raising_hand: About me:
-I'm an <b>undergraduate</b> at <b>University of Engineering & Management</b>.<br>
+I'm a <b>CSE undergraduate</b> at <b>University of Engineering & Management</b>.<br>
 ◽ Intrested in <b>Full-Stack Web Developement</b>, <b> Software Development, Android developement</b> and <b>Graphics Design</b>.<br>
 
 <br>
