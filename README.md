@@ -35,7 +35,6 @@ I'm a <b>CSE undergraduate</b> at <b>University of Engineering & Management</b>.
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
       </a>
       <br>HTML
-         
     </td>
     <td align="center" width="96">
       <a>
