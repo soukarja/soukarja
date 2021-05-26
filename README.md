@@ -26,7 +26,7 @@ I'm a <b>CSE undergraduate</b> at <b>University of Engineering & Management</b>.
 <div id="tech"></div>
 
 ## 💻 Things I know
-> <i>Tools, languages, and other things that I like to work with.</i>
+<i>Tools, languages, and other things that I like to work with.</i>
 <br>
 <table>
   <tr>
