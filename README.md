@@ -87,7 +87,7 @@ I'm a <b>CSE undergraduate</b> at <b>University of Engineering & Management</b>.
     <img src="https://github-profile-trophy.vercel.app/?username=soukarja&column=6&hide=PullRequest"/>
   </a>
 </div>
-#### Overall profile stats
+## Overall profile stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soukarja&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=soukarja&count_private=true&theme=merko&show_icons=true&hide=prs) -->
 
